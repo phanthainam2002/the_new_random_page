@@ -1,0 +1,236 @@
+body{
+  background-color: #4c4646;
+}
+.card-game-type{
+  min-height: 683px !important;
+}
+.card-game-img{
+  object-fit: cover;
+  height: 20vw;
+}
+.card-img-detail{
+  display: block;
+  margin: auto;
+  object-fit: cover;
+  width: 65vw;
+}
+.foot{
+  border-radius: 100;
+}
+.topfont{
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+/*.toptext{
+  left: 0;
+  top: 0;
+  vertical-align: middle;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  background-image: url("https://ak5.picdn.net/shutterstock/videos/2324615/thumb/8.jpg");
+  background-position: center;
+
+}*/
+
+.info1{
+  font-family: 'Archivo Black', sans-serif;
+
+}
+
+
+.info{
+  display: flex;
+  flex-wrap: nowrap;
+
+
+}
+.cardinfo{
+ padding: 0 !important
+
+}
+
+.toptext {
+  text-align: center;
+  width: 100%;
+  font-size: 100px;
+}
+.buttontop {
+  /*height: 100px !important;*/
+  text-align: center;
+
+}
+.button {
+  border-radius: 10px
+
+}
+
+.header-content-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 700px;
+  width: 100%;
+  background-image: url(/static/images/45b8f77ff445300d1893e930dc3c0c4e.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.random-field{
+  background-color: #343a40;
+  height: 350px;
+  overflow: auto;
+}
+.randomplace{
+
+}
+.random-field-font{
+  color: white
+
+}
+
+.inputrandom{
+  width: 350px;
+  height: 50px;
+
+
+
+}
+.randombuttonfield{
+  height: 40px;
+  background-color: 		#696969;
+
+
+}
+.b{
+  	background-color: #A9A9A9;
+
+}
+.a{
+  border-width: 0px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.c{
+
+  Fonts
+DIRECTORY
+FEATURED
+ABOUT
+
+
+  Fonts
+Directory
+Featured
+About
+
+ DESELECT THIS FONT
+Orbitron
+
+Glyph
+
+Oo
+Characters
+
+​‌A​‌B​‌C​‌D​‌E​‌F​‌G​‌H​‌I​‌J​‌K​‌L​‌M​‌N​‌O​‌P​‌Q​‌R​‌S​‌T​‌U​‌V​‌W​‌X​‌Y​‌Z​‌a​‌b​‌c​‌d​‌e​‌f​‌g​‌h​‌i​‌j​‌k​‌l​‌m​‌n​‌o​‌p​‌q​‌r​‌s​‌t​‌u​‌v​‌w​‌x​‌y​‌z​‌1​‌2​‌3​‌4​‌5​‌6​‌7​‌8​‌9​‌0​‌‘​‌?​‌’​‌“​‌!​‌”​‌(​‌%​‌)​‌[​‌#​‌]​‌{​‌@​‌}​‌/​‌&​‌\​‌<​‌-​‌+​‌÷​‌×​‌=​‌>​‌$​‌€​‌£​‌¢​‌:​‌;​‌,​‌.​‌*
+Styles
+
+Type here to preview text
+40px
+Regular
+Medium
+Bold
+Black
+Popular Pairings with Orbitron
+
+Open Sans
+
+Orbitron
+Regular
+Open Sans
+Regular
+
+Lato
+
+Lobster
+
+Oswald
+
+The spectacle before us was indeed sublime.
+Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.
+
+Designer
+
+
+Matt McInerney
+Principal design
+About
+
+Orbitron is a geometric sans-serif typeface intended for display purposes. It features four weights (light, medium, bold, and black), a stylistic alternative, small caps, and a ton of alternate glyphs. Orbitron was designed so that graphic designers in the future will have some alternative to typefaces like Eurostile or Bank Gothic. If you’ve ever seen a futuristic sci-fi movie, you have may noticed that all other fonts have been lost or destroyed in the apocalypse that led humans to flee earth. Only those very few geometric typefaces have survived to be used on spaceship exteriors, spacestation signage, monopolistic corporate branding, uniforms featuring aerodynamic shoulder pads, etc. Of course Orbitron could also be used on the posters for the movies portraying this inevitable future. It was initially published on the League of Movable Type.
+Usage
+
+TR
+US
+These are the countries where Orbitron is most popular.
+51.9M
+Number of times Google Fonts API served Orbitron over the last week. Orbitron is featured in more than 97,000 websites.
+Further Information
+
+Feedback
+Have feedback on Orbitron?
+Please let us know.
+License
+Open Font License
+
+Search
+Categories
+
+Serif
+Sans Serif
+Display
+Handwriting
+Monospace
+Sorting
+
+Trending
+Languages
+
+All Languages
+Number of styles
+
+Thickness
+
+Slant
+
+Width
+
+1
+Family
+ Selected
+
+EMBED
+CUSTOMIZE
+EMBEDCUSTOMIZE
+Load Time: Fast
+Your Selection
+
+Clear All
+
+Orbitron
+Load Time: Fast
+EMBED
+CUSTOMIZE
+EMBEDCUSTOMIZE
+Embed Font
+
+To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
+STANDARD @IMPORT
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+Specify in CSS
+
+Use the following CSS rules to specify these families:
+font-family: 'Orbitron', sans-serif;
+  font-size: 50px
+}
+/*.login_input{
+  max-width: 800px;
+}*/
